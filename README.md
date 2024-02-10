@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarek_reza" target="blank"><img src="https://img.shields.io/twitter/follow/tarek_reza?logo=twitter&style=for-the-badge" alt="tarek_reza" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **tarekreza15@gmail.com**
 
